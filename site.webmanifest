@@ -1,0 +1,16 @@
+{
+  "name": "Virpazar Boat Tours",
+  "short_name": "Virpazar Tours",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a3c34",
+  "theme_color": "#1a3c34",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
